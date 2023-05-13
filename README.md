@@ -3,13 +3,13 @@
 To code a java program to print the arithmetic oprations.
 
 ## Algorithm:
-###Step 1:
+### Step 1:
 Import the required packages.
-###Step 2:
+### Step 2:
 Get the numbers from user using scanner package.
-###Step 3:
+### Step 3:
 Do the arithmetic opration like addition , subtraction,multiplication,division,modulus.
-###Step 4:
+### Step 4:
 Display the result.
 ## Code:
 ```
