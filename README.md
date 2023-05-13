@@ -3,10 +3,14 @@
 To code a java program to print the arithmetic oprations.
 
 ## Algorithm:
-1.Import the required packages.
-2.Get the numbers from user using scanner package.
-3.Do the arithmetic opration like addition , subtraction,multiplication,division,modulus.
-4.Display the result.
+Step 1:
+Import the required packages.
+Step 2:
+Get the numbers from user using scanner package.
+Step 3:
+Do the arithmetic opration like addition , subtraction,multiplication,division,modulus.
+Step 4:
+Display the result.
 ## Code:
 ```
 import java.util.Scanner;
